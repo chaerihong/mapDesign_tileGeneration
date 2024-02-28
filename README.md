@@ -22,7 +22,7 @@ This project presents a series of interactive maps designed to showcase various 
 
 ## Accessing the Web Map
 
-The interactive web map can be accessed at the following URL: [https://chaerihong.github.io/mapDesign_tileGenerationPublic/](https://chaerihong.github.io/mapDesign_tileGenerationPublic/)
+The interactive web map can be accessed at the following URL: [https://chaerihong.github.io/mapDesign_tileGeneration/](https://chaerihong.github.io/mapDesign_tileGeneration/)
 
 ## Screenshots
 
