@@ -28,10 +28,10 @@ The interactive web map can be accessed at the following URL: [https://chaerihon
 
 Below are screenshots of the four layers included in the map:
 
-- **Base Map**: ![Base Map Screenshot](../img/SeattleBasemap.png)
-- **Hospital Locations**: ![Hospital Locations Screenshot](../img/HospitalLocations.png)
-- **Data**: ![Third Layer Screenshot](../img/Data.png)
-- **UW theme**: ![Fourth Layer Screenshot](../img/UWtheme.png)
+- **Base Map**: ![Base Map Screenshot](img/SeattleBasemap.png)
+- **Hospital Locations**: ![Hospital Locations Screenshot](img/HospitalLocations.png)
+- **Data**: ![Third Layer Screenshot](img/Data.png)
+- **UW theme**: ![Fourth Layer Screenshot](img/UWtheme.png)
 
 ## Geographic Area Covered
 
